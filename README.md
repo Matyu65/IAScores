@@ -1,0 +1,2 @@
+# IAScores
+emprendimiento personal
